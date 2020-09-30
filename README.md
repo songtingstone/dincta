@@ -14,7 +14,7 @@ To run Dincta, open R and install directly from github using the following comma
 
 ```
 library(devtools)
-install_github("immunogenomics/dincta")
+install_github("songtingstone/dincta")
 ```
 
 Installation may include compiling C++ code from source, so it can take a few minutes. 
