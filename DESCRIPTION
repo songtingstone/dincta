@@ -1,0 +1,32 @@
+Package: dincta
+Title: Dincta: Data INtegration and Cell Type Annotation of Single Cell Transcriptomes. 
+biocViews: BatchEffect, GeneExpression, RNASeq, SingleCell, Transcriptomics
+Version: 0.1.0
+Authors@R: c(
+    person("Songting", "Shi", email = "songtingstone@gmail.com", 
+        role = c("cre", "aut", "ctb"), comment = c(ORCID = "0000-0002-9149-2455"))
+    )
+Description: Implementation of the Dincta algorithm for single cell integration and cell type annotation, described in Songting Shi <doi.org/*/*>. Package includes a standalone Dincta function and interfaces to external frameworks.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.1.1
+Depends: Rcpp
+LinkingTo: Rcpp, RcppArmadillo, RcppProgress
+Imports:
+    dplyr, 
+    cowplot,
+    tidyr,
+    ggplot2, 
+    irlba,
+    Matrix,
+    methods,
+    tibble,
+    rlang
+Suggests:
+    Seurat,
+    SingleCellExperiment,
+    testthat,
+    knitr,
+    rmarkdown,
+    BiocStyle
+VignetteBuilder: knitr
