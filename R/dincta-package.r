@@ -7,7 +7,7 @@
 #' \enumerate{
 #' \item ?DinctaMatrix to run Dincta on gene expression or PCA 
 #' embeddings matrix.
-#' \item ?DinctaClassification to run Dincta Classification on on gene expression or PCA 
+#' \item ?DinctaClassification to run Dincta Classification on gene expression or PCA 
 #' embeddings matrix.
 #' }
 #' @section Useful links:
