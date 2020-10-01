@@ -2,7 +2,7 @@
 
 *Data INtegration and Cell Type Annotation of Single Cell Transcriptomes*
 
-Check out the latest preprint of Dincta (to be appear) on [bioRxiv](https://www.biorxiv.org/content/early/2020/tobeappear)
+Check out the latest preprint of Dincta on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.28.316901v1)
 
 # System requirements 
 
