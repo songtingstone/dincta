@@ -170,7 +170,7 @@ DinctaMatrix <- function(
     k_cluster.n.cells.inner.threshold=1,
     new.cell_type.prob.threshold=0.8,
     cell_type.sample.fraction=0.9,
-    new.cell_type.main.fraction = 0.6,
+    new.cell_type.main.fraction = 0.9,
     cell_type.eigval.threshold=0.9,
     cell_type.min.cells=10,
     new.cell_type.min.cells = 6,
