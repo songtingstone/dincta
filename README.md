@@ -8,7 +8,7 @@ Reproduce analyses on [dincta2020](https://github.com/songtingstone/dincta2020)
 
 # System requirements 
 
-Dincta has been tested on R versions >= 3.5.0. Please consult the DESCRIPTION file for more details on required R packages. Dincta has been tested on OS X,  has not tested on Linux,  and Windows platforms.
+Dincta has been tested on R versions >= 3.5.0. Please consult the DESCRIPTION file for more details on required R packages. Dincta has been tested on OS X,  has not tested on Linux,  and Windows platforms, it should work well on Linux and Windows platforms, if not, please let me know.
 
 # Installation
 
