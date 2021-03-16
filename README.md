@@ -32,7 +32,7 @@ The Dincta algorithm iteratively corrects PCA embeddings. To input your own low 
 
 ```
 library(dincta)
-my_dincta_embeddings <- DinctaMatrix(my_pca_embeddings, meta_data, "dataset", "cell_type", do_pca=FALSE)
+my_dincta_res <- DinctaMatrix(my_pca_embeddings, meta_data, "dataset", "cell_type", do_pca=FALSE)
 ```
 
 ## Normalized gene matrix
